@@ -41,7 +41,7 @@ Here are some guidelines to help me get started:
 I am required to submit the following for review:
 
 * A walkthrough video demonstrating the functionality of the application.
-[demo video link](https://drive.google.com/file/d/1hulOkh8HxHrtr2IRd1Sw8002lGSweJhq/view?usp=sharing)
+[demo video link](https://drive.google.com/file/d/1MgUpfMFmtD3ojJnrXAZSz23ijpPR-Voy/view?usp=sharing)
 
 * A sample README.md file for a project repository generated using your application
 
