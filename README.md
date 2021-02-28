@@ -45,6 +45,8 @@ I am required to submit the following for review:
 
 * A sample README.md file for a project repository generated using your application
 
+https://github.com/kajalpatel20/KAJAL-README-GENERTOR/blob/main/Develop/SampleREADME.md
+
 * The URL of the GitHub repository, with a unique name and a README describing the project:
 
 	https://github.com/kajalpatel20/KAJAL-README-GENERTOR
